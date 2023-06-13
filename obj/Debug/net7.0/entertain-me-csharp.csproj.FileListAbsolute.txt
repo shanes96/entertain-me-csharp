@@ -1,0 +1,15 @@
+/Users/shanestandifur/workspace/entertain-me-csharp/bin/Debug/net7.0/entertain-me-csharp
+/Users/shanestandifur/workspace/entertain-me-csharp/bin/Debug/net7.0/entertain-me-csharp.deps.json
+/Users/shanestandifur/workspace/entertain-me-csharp/bin/Debug/net7.0/entertain-me-csharp.runtimeconfig.json
+/Users/shanestandifur/workspace/entertain-me-csharp/bin/Debug/net7.0/entertain-me-csharp.dll
+/Users/shanestandifur/workspace/entertain-me-csharp/bin/Debug/net7.0/entertain-me-csharp.pdb
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.csproj.AssemblyReference.cache
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.AssemblyInfoInputs.cache
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.AssemblyInfo.cs
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.csproj.CoreCompileInputs.cache
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.dll
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/refint/entertain-me-csharp.dll
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.pdb
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/entertain-me-csharp.genruntimeconfig.cache
+/Users/shanestandifur/workspace/entertain-me-csharp/obj/Debug/net7.0/ref/entertain-me-csharp.dll

@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+namespace EntertainMe.Models;
+
 public class Artist 
 {
     public int Id {get;set;}

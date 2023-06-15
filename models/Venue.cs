@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+namespace EntertainMe.Models;
+
 public class Venue
 {
     public int Id {get;set;}

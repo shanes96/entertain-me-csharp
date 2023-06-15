@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+namespace EntertainMe.Models;
 public class User
 
 {
